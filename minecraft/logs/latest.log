@@ -1,0 +1,23 @@
+[01:03:32] [Client thread/INFO]: Setting user: J_A_K_U_B_15
+[01:03:35] [Client thread/INFO]: LWJGL Version: 2.9.4
+[01:03:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[01:03:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:03:40] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[01:03:40] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:03:40] [Thread-8/INFO]: OpenAL initialized.
+[01:03:40] [Sound Library Loader/INFO]: Sound engine started
+[01:03:48] [Client thread/INFO]: Created: 16x16 textures-atlas
+[01:03:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[01:03:49] [Client thread/INFO]: SoundSystem shutting down...
+[01:03:49] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[01:03:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[01:03:49] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[01:03:49] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[01:03:49] [Thread-10/INFO]: OpenAL initialized.
+[01:03:50] [Sound Library Loader/INFO]: Sound engine started
+[01:03:52] [Client thread/INFO]: Created: 512x512 textures-atlas
+[01:03:54] [Realms Notification Availability checker #1/ERROR]: Could not parse RealmsError: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12
+[01:03:54] [Realms Notification Availability checker #1/ERROR]: Realms http code: 404 -  error code: 0 -  message: null
+[01:03:54] [Client thread/INFO]: Stopping!
+[01:03:54] [Client thread/INFO]: SoundSystem shutting down...
+[01:03:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
