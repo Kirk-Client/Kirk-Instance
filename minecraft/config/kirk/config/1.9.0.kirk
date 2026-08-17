@@ -1,0 +1,1812 @@
+{
+  "QuakeBot": {
+    "enabled": false,
+    "keybind": -1,
+    "Range": 100.0,
+    "Instant Shoot": true,
+    "Auto Sneak": true,
+    "Mode": "DYNAMIC",
+    "Through Walls Aim": true,
+    "Sorting": "DISTANCE",
+    "Shoot Delay (ticks)": 5,
+    "Auto Shoot": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "InventoryMove": {
+    "enabled": false,
+    "keybind": -1,
+    "Carry": false,
+    "No Open Packet": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Auto Streaks": {
+    "enabled": false,
+    "keybind": -1,
+    "Movement": {
+      "open": false
+    },
+    "Clean Inventory": true,
+    "Use Kill Aura": false,
+    "Auto Rejoin": true,
+    "Lobby": {
+      "open": false
+    },
+    "Gear": {
+      "open": false
+    },
+    "W Tap": true,
+    "Killstreak 2": "Counter_Strike",
+    "Panic Button": true,
+    "Killstreak 1": "Explicious",
+    "Ignore Diamond Armor": false,
+    "Jump": true,
+    "NPC": {
+      "open": false
+    },
+    "Stuck Check": true,
+    "Click Speed": 5,
+    "Force Gheads": true,
+    "Required Nons": 4,
+    "W Tap Range": 3.0,
+    "Search": false,
+    "Combat": {
+      "open": false
+    },
+    "Dragon Eggs": true,
+    "Loot": {
+      "open": false
+    },
+    "Strafe": true,
+    "Debug": false,
+    "Auto Heal": true,
+    "Attack Range": 3.0,
+    "Has The Way": false,
+    "Auto Respawn": true,
+    "Sorting": "Proximity",
+    "Perk Slot 2": "Golden_Heads",
+    "Prestige": false,
+    "Equip Perks": true,
+    "Killstreak 3": "Fight_or_Flight",
+    "Drop Empty Pickaxes": true,
+    "Perk Slot 4": "Safety_First",
+    "Mystic Pathfinding": true,
+    "Prestige Level": 120,
+    "Perk Slot 3": "Strength_Chaining",
+    "Targeting": {
+      "open": false
+    },
+    "Turn Speed": 22.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Animations": {
+    "enabled": true,
+    "keybind": -1,
+    "Rotation Y": 0.0,
+    "Position": {
+      "open": false
+    },
+    "1.7 Blocking": true,
+    "Rotation X": 0.0,
+    "Size": {
+      "open": false
+    },
+    "Depth": 1.0,
+    "Easing": "Ease_Out_Back",
+    "Arm Swing Speed": 0.3,
+    "Reset Size": false,
+    "Custom Swing Speed": true,
+    "Offset Z": -0.43,
+    "Height": 1.0,
+    "Offset X": 0.27,
+    "Width": 1.0,
+    "Uneven Size": false,
+    "Reset Position": false,
+    "Swinging": {
+      "open": false
+    },
+    "Size Multiplier": 0.54,
+    "Reset Rotation": false,
+    "Rotation": {
+      "open": false
+    },
+    "Ignore Haste": false,
+    "Smooth Swing": true,
+    "Offset Y": -0.08,
+    "Rotation Z": 0.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Kirk+": {
+    "enabled": false,
+    "keybind": -1,
+    "Open Menu": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Legit Target Strafe": {
+    "enabled": true,
+    "keybind": -1,
+    "Range": 6.0,
+    "Radius": 2.2,
+    "Min Hold": 4,
+    "Visuals": {
+      "open": false
+    },
+    "Accent Colour": true,
+    "Show Circle": true,
+    "Humanising": {
+      "open": false
+    },
+    "Circle Colour": {
+      "value": -1860616,
+      "falpha": 0.0
+    },
+    "Forward Only": true,
+    "Conditions": {
+      "open": false
+    },
+    "Line Width": 2.0,
+    "Basics": {
+      "open": false
+    },
+    "Targeting": {
+      "open": false
+    },
+    "Water Check": true,
+    "Line Of Sight": true,
+    "Pull Strength": 1.2,
+    "Target Source": "Kill_Aura",
+    "Ground Only": false,
+    "Jump Only": false,
+    "Dead Zone": 22.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Miley Cyrus": {
+    "enabled": false,
+    "keybind": -1,
+    "Server Side": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Inventory Fix": {
+    "enabled": true,
+    "keybind": -1,
+    "Only Movement": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Spotify": {
+    "enabled": false,
+    "keybind": -1,
+    "Size": 1.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Kirky\u0027s Online": {
+    "enabled": false,
+    "keybind": -1,
+    "Online Status": "ONLINE",
+    "Glow": true,
+    "Glow Size": 3.0,
+    "Hide GUI": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Cool Main Menu": {
+    "enabled": true,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Game Stats": {
+    "enabled": false,
+    "keybind": -1,
+    "Inner Border": true,
+    "Show Game Name": true,
+    "Glass Effect": true,
+    "Divider": true,
+    "Border Glow": true,
+    "Background Opacity": 0.8,
+    "Style": {
+      "open": false
+    },
+    "Glow Intensity": 0.35,
+    "Accent Numbers": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Auto Tool": {
+    "enabled": true,
+    "keybind": -1,
+    "Crouching Only": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Streaks": {
+    "enabled": false,
+    "keybind": -1,
+    "Border Glow": true,
+    "Show Outside Pit": false,
+    "Rewards": true,
+    "Reset On Enable": false,
+    "Background Opacity": 0.8,
+    "Prestige Bar": true,
+    "Inner Border": true,
+    "Lobby": true,
+    "Rows": {
+      "open": false
+    },
+    "Glow Intensity": 0.35,
+    "Glass Effect": true,
+    "Streak": true,
+    "Style": {
+      "open": false
+    },
+    "Rates": true,
+    "Session": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "No Jump Delay": {
+    "enabled": false,
+    "keybind": -1,
+    "Delay Ticks": 1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Anti Fireball": {
+    "enabled": false,
+    "keybind": -1,
+    "Rotate": true,
+    "Range": 4.5,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Anti Void": {
+    "enabled": false,
+    "keybind": 12,
+    "Mode": "Position",
+    "Distance": 5,
+    "Vulcan Distance": 2.6,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Auto Duel": {
+    "enabled": false,
+    "keybind": -1,
+    "Auto GG": true,
+    "Start Delay": 100,
+    "Requeue After No Game": 30,
+    "Webhook": {
+      "open": false
+    },
+    "Quiet": false,
+    "General": {
+      "open": false
+    },
+    "Enable Dodging": true,
+    "Horizontal Look Speed": 10.0,
+    "Dodging": {
+      "open": false
+    },
+    "Stop After Games": 0,
+    "Requeue": {
+      "open": false
+    },
+    "Max CPS": 14,
+    "Dodge No Stats": true,
+    "Post Opponent Stats": false,
+    "Combat": {
+      "open": false
+    },
+    "Debug": false,
+    "Requeue Delay": 2500,
+    "Dodge Lost To": true,
+    "Lobby Movement": true,
+    "Start Message": false,
+    "Strict Dodging": false,
+    "Vertical Look Speed": 5.0,
+    "Send Webhooks": false,
+    "Post Dodges": false,
+    "Paper Requeue": true,
+    "Max Look Distance": 150.0,
+    "Min CPS": 10,
+    "Dodge Wins": 4000,
+    "Dodge Winstreak": 15,
+    "Boxing Fish": false,
+    "Smoothness": 4.0,
+    "GG Delay": 100,
+    "Stop After Minutes": 0,
+    "Max Attack Distance": 5.0,
+    "Look Randomization": 0.3,
+    "Mode": "Classic",
+    "Dodge W/L": 3.0,
+    "Fast Requeue": false,
+    "Messages": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Tick Base": {
+    "enabled": false,
+    "keybind": -1,
+    "Start Blink Range": 5.31,
+    "Max Ticks": 7,
+    "Through Walls": true,
+    "Mode": "Blink",
+    "End Blink Range": 3.0,
+    "Swords Only": true,
+    "Max Blink Ticks": 5,
+    "Target Range": 4.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Render Barriers": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "No Render": {
+    "enabled": false,
+    "keybind": -1,
+    "No Nausea": true,
+    "Fire Colour": {
+      "value": 1694498815,
+      "falpha": 0.0
+    },
+    "Show Invisibles": true,
+    "No Blindness": true,
+    "Fire Offset": 0.0,
+    "Only Invis Players": true,
+    "Custom Blindness Fog": true,
+    "Blindness Fog Colour": {
+      "value": 1677721600,
+      "falpha": 0.0
+    },
+    "Fire Modifier": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Disabler": {
+    "enabled": false,
+    "keybind": -1,
+    "Generic": {
+      "open": false
+    },
+    "Verus Scaffold G": false,
+    "Wait Until Combat": true,
+    "Verus Scaffold 14E": false,
+    "Grim Spectate": false,
+    "Fun": {
+      "open": false
+    },
+    "LiveOverflow": false,
+    "CubeCraft": false,
+    "Verus Combat": false,
+    "Distance Per Packet": 10.0,
+    "Omnisprint": false,
+    "Hypixel Scaffold": false,
+    "Racism": true,
+    "Verus No Action": false,
+    "Server": {
+      "open": false
+    },
+    "Not With Star": true,
+    "Vulcan Scaffold": false,
+    "AAC 1.9.10": false,
+    "Cancel Sprinting": false,
+    "Vanilla Speed": false,
+    "Anticheat": {
+      "open": false
+    },
+    "Hypixel": true,
+    "Mineland Fly": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "No FOV": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Auto Place": {
+    "enabled": false,
+    "keybind": -1,
+    "Delay": 0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Discord Profile HUD": {
+    "enabled": false,
+    "keybind": -1,
+    "Glow": true,
+    "Glow Size": 4.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Sneak": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Trail": {
+    "enabled": false,
+    "keybind": -1,
+    "Draw On Ground": false,
+    "Utah Size": 1.74,
+    "Fade Speed": 2.0,
+    "Mode": "Utah",
+    "Utah Glow": true,
+    "Glass Glow": true,
+    "Glow Intensity": 0.6,
+    "Utah Line Thickness": 7.41,
+    "Utah Color": {
+      "value": -2354116,
+      "falpha": 0.0
+    },
+    "Trail Length": 10,
+    "Line Width": 2,
+    "Utah Rotation Speed": 10.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Custom Hotbar": {
+    "enabled": true,
+    "keybind": -1,
+    "Overshoot": true,
+    "Pill": {
+      "open": false
+    },
+    "Slide": 170.0,
+    "Padding": 2.5,
+    "Strength": 55.0,
+    "Outline": true,
+    "Shadow": true,
+    "Pill Colour": {
+      "value": -1106638322,
+      "falpha": 0.0
+    },
+    "Light Colour": {
+      "value": -1860616,
+      "falpha": 0.0
+    },
+    "Glow": 6.0,
+    "Flare": 45.0,
+    "Light": {
+      "open": false
+    },
+    "Accent Colour": true,
+    "Rounding": 14.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "AutoPot": {
+    "enabled": false,
+    "keybind": -1,
+    "Rotation Speed": 30.0,
+    "Throw Delay": 15.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Ambience": {
+    "enabled": true,
+    "keybind": 15,
+    "Colour": {
+      "open": false
+    },
+    "Sky": {
+      "open": true
+    },
+    "Shader": "Caustic",
+    "Sky Colour": {
+      "value": -7274496,
+      "falpha": 0.0
+    },
+    "Accent Colour": true,
+    "Shader Opacity": 70.0,
+    "Skybox": "Clear_Evening",
+    "Tint Skybox": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Sprint": {
+    "enabled": true,
+    "keybind": -1,
+    "Mode": "Legit",
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "No Clip": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Notifications": {
+    "enabled": true,
+    "keybind": -1,
+    "Pop In Time": 350,
+    "Animation In": {
+      "open": false
+    },
+    "Inner Border": true,
+    "Notification Length": 5000,
+    "Other": {
+      "open": false
+    },
+    "Pop Out Time": 500,
+    "Glow Intensity": 0.5,
+    "Recent Lower": true,
+    "Border Glow": true,
+    "Style": {
+      "open": false
+    },
+    "Ease Out": "Ease_In_Out_Back",
+    "Animation Out": {
+      "open": false
+    },
+    "Glass Effect": false,
+    "Ease In": "Ease_Out_Back",
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Spiderman": {
+    "enabled": false,
+    "keybind": -1,
+    "Jump Motion": 23.0,
+    "Climb Delay": 4.0,
+    "Mode": "Watchdog",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Legit Scaffold": {
+    "enabled": false,
+    "keybind": -1,
+    "Auto Switch": true,
+    "Min Turn Speed": 22.0,
+    "Ground Only": false,
+    "Sneak On Edge": true,
+    "Basics": {
+      "open": false
+    },
+    "Max Delay": 3,
+    "Look Ahead": 3,
+    "Sneaking Only": false,
+    "Max Place Delay": 2,
+    "Pitch Check": false,
+    "Conditions": {
+      "open": false
+    },
+    "Show Target Block": true,
+    "Sneak Speed": 0.34,
+    "Faster": true,
+    "Min Delay": 2,
+    "Sneak": {
+      "open": false
+    },
+    "Min Pitch": 40.0,
+    "Target Block Colour": {
+      "value": -1860616,
+      "falpha": 0.0
+    },
+    "Rotations": {
+      "open": false
+    },
+    "Reach": 4.2,
+    "Visuals": {
+      "open": false
+    },
+    "Min Place Delay": 1,
+    "Aim Randomisation": 0.16,
+    "Max Turn Speed": 38.0,
+    "Return Speed": 30.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Inventory Manager": {
+    "enabled": false,
+    "keybind": -1,
+    "Min Blocks": 64.0,
+    "Min Projectiles": 8.0,
+    "Throw Junk": true,
+    "Auto Close": true,
+    "Ticks Before Close GUI": 20.0,
+    "Timing": {
+      "open": false
+    },
+    "Keep Food": true,
+    "Ticks Before First Item": 9.0,
+    "Keep Potions": true,
+    "Loadout": {
+      "open": false
+    },
+    "Junk Mode": "Duplicates",
+    "Keep Bow": true,
+    "Keep Tools": true,
+    "Ticks Between Items": 4.0,
+    "Max Block Stacks": 3.0,
+    "Only In Inventory": true,
+    "Junk": {
+      "open": false
+    },
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Fake Lag": {
+    "enabled": false,
+    "keybind": -1,
+    "Min Pulse Ticks": 1,
+    "Swords Only": true,
+    "Through Walls": false,
+    "Max Pulse Ticks": 4,
+    "Range": 5.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Target Strafe": {
+    "enabled": false,
+    "keybind": -1,
+    "Targeting": {
+      "open": false
+    },
+    "Circle Colour": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "Auto Strafe": true,
+    "Visuals": {
+      "open": false
+    },
+    "Radius": 2.2,
+    "Basics": {
+      "open": false
+    },
+    "Show Circle": true,
+    "Kill Aura Target": true,
+    "Accent Colour": true,
+    "Range": 6.0,
+    "Line Width": 5.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Array List": {
+    "enabled": true,
+    "keybind": -1,
+    "Hide Player": false,
+    "Hide Render": false,
+    "Color": {
+      "value": -1570808,
+      "falpha": 0.0
+    },
+    "Text Case": "Standard",
+    "Secondary Color": {
+      "value": -9240576,
+      "falpha": 0.0
+    },
+    "Background Rounding": 2.5,
+    "Background": true,
+    "Separator Mode": "Space",
+    "Font Size": 20,
+    "Font": "Greycliff",
+    "Sidebar Mode": "None",
+    "Color Mode": "Fade",
+    "Offset": 5,
+    "Opacity": 57.6,
+    "Hide Misc": false,
+    "Show Suffixes": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Fullbright": {
+    "enabled": false,
+    "keybind": -1,
+    "Gamma": 16.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Hilarity": {
+    "enabled": true,
+    "keybind": -1,
+    "Boolean": false,
+    "Slider": 1000,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Scaffold": {
+    "enabled": false,
+    "keybind": 48,
+    "Block Place Reach": 4.5,
+    "Show Target Block": false,
+    "Max Pitch": 90,
+    "Rotation Ticks": 3,
+    "Tower Mode": "Legit",
+    "Right Click Down": false,
+    "Crouch On Edge": false,
+    "Tower Pitch Range": false,
+    "Use Largest Stack": false,
+    "Manual Place": false,
+    "Only When Jumping": true,
+    "Rotation Mode": "Telly",
+    "Smooth Rotation": true,
+    "Visuals": {
+      "open": false
+    },
+    "Auto F5": false,
+    "Show Previous Blocks": true,
+    "Swap Time": 5,
+    "Pitch Range": false,
+    "Bypass": {
+      "open": false
+    },
+    "Basics": {
+      "open": false
+    },
+    "Moving Backwards": false,
+    "Tower": {
+      "open": false
+    },
+    "Telly Place Delay": 4,
+    "Uncrouch": true,
+    "Telly Mode": "Hypixel",
+    "Fade Time": 3000,
+    "Easing": "Ease_Out_Expo",
+    "Telly Forward Ticks": 1,
+    "Only Off Ground": true,
+    "Telly Ticks": 1,
+    "Blocks Only": false,
+    "Tower Max Pitch": 0,
+    "Min Pitch": 35,
+    "No Duplicate Rot": true,
+    "Crouch Down": false,
+    "Target Block Colour": {
+      "value": -1860616,
+      "falpha": 0.0
+    },
+    "Default To Keep Y": true,
+    "Only Place Best": true,
+    "Rotate": true,
+    "Crouch In Air": false,
+    "Tower Min Pitch": -90,
+    "Conditions": {
+      "open": false
+    },
+    "Only If Space Down": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Kirkify Everyone": {
+    "enabled": true,
+    "keybind": -1,
+    "Target Filter": "Everyone",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "AntiWeb": {
+    "enabled": false,
+    "keybind": -1,
+    "Mode": "Intave",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Target HUD": {
+    "enabled": true,
+    "keybind": -1,
+    "Ease Out": "Ease_In_Back",
+    "Style": {
+      "open": false
+    },
+    "Equipment": true,
+    "Target Time": 1000,
+    "Glass Blur": true,
+    "Animation In": {
+      "open": false
+    },
+    "Pop In Time": 600,
+    "Theme": "Modern",
+    "Inner Border": true,
+    "Card Opacity": 1.0,
+    "Glass Effect": false,
+    "Pop Out Time": 350,
+    "Durability": true,
+    "Animation Out": {
+      "open": false
+    },
+    "Ease In": "Ease_Out_Elastic",
+    "Glow Intensity": 0.22,
+    "Border Glow": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Fly": {
+    "enabled": false,
+    "keybind": -1,
+    "Vertical Speed": 2.0,
+    "Horizontal Speed": 2.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Keep Sprint": {
+    "enabled": false,
+    "keybind": -1,
+    "Keep Sprint": true,
+    "Keep Motion": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Kill Aura": {
+    "enabled": true,
+    "keybind": 19,
+    "Not While Mining": false,
+    "Swords Only": true,
+    "Target Choice": "Switch",
+    "Min Rotation": 180.0,
+    "Attacking": {
+      "open": false
+    },
+    "Random Point": false,
+    "Utah Size": 1.39,
+    "FOV": 180.0,
+    "Rotation Smoothing": 1.0,
+    "Attack Range": 3.0,
+    "Easing Ticks": 10,
+    "Only Necessary": true,
+    "Rotation Speed": 10.0,
+    "Attack Speed Max": 20.0,
+    "Attack Speed Min": 20.0,
+    "Line Thickness": 2.01,
+    "Utah Shape": true,
+    "Visuals": {
+      "open": false
+    },
+    "Target Sorting": "Distance",
+    "Utah Color": {
+      "value": -2354116,
+      "falpha": 0.0
+    },
+    "Left Click Only": false,
+    "Jitter Ticks": 25,
+    "Through Walls": true,
+    "Targeting": {
+      "open": false
+    },
+    "Client Side": false,
+    "Jitter Pitch": true,
+    "Enable Visuals": true,
+    "Rotation Range": 5.0,
+    "Glow Effect": true,
+    "Range": {
+      "open": false
+    },
+    "Rotation": {
+      "open": false
+    },
+    "No GUI": true,
+    "Rotation Mode": "Simple",
+    "Swing Misses": false,
+    "Jitter Size": 0.35,
+    "Max Rotation": 180.0,
+    "Easing": "Ease_In_Out_Sine",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Scoreboard": {
+    "enabled": true,
+    "keybind": -1,
+    "Background Opacity": 0.7,
+    "Scale": 1.0,
+    "Inner Border": true,
+    "Theme": "Modern",
+    "Style": {
+      "open": false
+    },
+    "Blur": true,
+    "Hide Server IP": true,
+    "Glow Intensity": 0.5,
+    "Show Numbers": false,
+    "Glass Effect": false,
+    "Panel Opacity": 1.0,
+    "Border Glow": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Auto Rod": {
+    "enabled": false,
+    "keybind": -1,
+    "Range": {
+      "open": false
+    },
+    "Utah Shape": true,
+    "Melee Range": 3.4,
+    "Sorting": "Distance",
+    "Stop When Engaged": true,
+    "Rodding": {
+      "open": false
+    },
+    "Reel Delay": 12.0,
+    "Combo": {
+      "open": false
+    },
+    "No GUI": true,
+    "Cooldown": 60.0,
+    "Sequence": "P_R_R_P_P",
+    "Utah Color": {
+      "value": -16836,
+      "falpha": 0.0
+    },
+    "Line Thickness": 3.0,
+    "Use Aura Range": true,
+    "Combo Delay": 5.0,
+    "Casts Max": 2.0,
+    "Rotation Speed": 2.0,
+    "Glow Effect": true,
+    "Casts Min": 1.0,
+    "Visuals": {
+      "open": false
+    },
+    "Max Range": 12.0,
+    "Targeting": {
+      "open": false
+    },
+    "Enable Visuals": true,
+    "Client Side": false,
+    "Predict Movement": true,
+    "Cast Delay": 4.0,
+    "Through Walls": false,
+    "Utah Size": 0.8,
+    "Pitch Offset": 0.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "HUD": {
+    "enabled": true,
+    "keybind": -1,
+    "Show Server": true,
+    "Glow Effect": false,
+    "Wave Speed": 3.0,
+    "Watermark": "Modern",
+    "Show Version": true,
+    "FPS": false,
+    "Server": true,
+    "Glow": false,
+    "Show Kirk Username": false,
+    "Text Scale": 1.0,
+    "User": false,
+    "Show Name": true,
+    "Ping": false,
+    "Show FPS": false,
+    "Pill Gap": 4.0,
+    "Bar Opacity": 0.75,
+    "Glass": true,
+    "Glow Size": 4.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "BedNuker": {
+    "enabled": false,
+    "keybind": 36,
+    "Mode": "Hypixel",
+    "Override Autoblock": true,
+    "Tick Swap": false,
+    "Ticks Between Blocks": 5,
+    "Whitelist Own Bed": true,
+    "Post Rotate": false,
+    "Override Scaffold": false,
+    "Override Kill Aura": true,
+    "Tick Rotate": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Zoom": {
+    "enabled": false,
+    "keybind": 29,
+    "Min Scroll Zoom": 10,
+    "Scroll Zoom Indent": 10,
+    "Scroll Zoom": true,
+    "Smooth Look": true,
+    "Zoom FOV": 30,
+    "Hide Hand": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": true
+  },
+  "Nametags": {
+    "enabled": false,
+    "keybind": -1,
+    "Scale With Distance": true,
+    "Health": true,
+    "Kirk Presence": true,
+    "Size Multiplier": 1.0,
+    "Team Colour": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Click GUI": {
+    "enabled": false,
+    "keybind": 54,
+    "Fancy Dragging": true,
+    "Theme": "COMPACT",
+    "Glass Panels": true,
+    "Close Length": 325,
+    "GUI Open Speed": 0.75,
+    "Open Speed": 0.75,
+    "GUI Scale": 1.1,
+    "GUI Close Speed": 0.75,
+    "Glass Blur": 12.0,
+    "Close": "Ease_In_Out_Sine",
+    "GUI Animation": "POPPING",
+    "Animations": {
+      "open": false
+    },
+    "Close Speed": 0.75,
+    "Open Length": 325,
+    "Open": "Ease_In_Out_Sine",
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Crits": {
+    "enabled": true,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "V-Clip": {
+    "enabled": false,
+    "keybind": -1,
+    "V Clip Height": 10.0,
+    "Clip Up": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Dildo": {
+    "enabled": false,
+    "keybind": -1,
+    "Reach": 4.5,
+    "Hitbox": false,
+    "Jiggle": 5.0,
+    "Resummon Key": true,
+    "Colour": "Pink",
+    "Punch Force": 10.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Template Render": {
+    "enabled": false,
+    "keybind": -1,
+    "Glow Size": 4.0,
+    "Glow": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "KirkChat": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Auto GG": {
+    "enabled": true,
+    "keybind": -1,
+    "On Kill": false,
+    "Cooldown": 5000,
+    "Win Message": "gg",
+    "Kill Message": "gg",
+    "On Win": true,
+    "Delay": 500,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "ChestStealer": {
+    "enabled": false,
+    "keybind": -1,
+    "Close When Done": true,
+    "Block Range": 6.0,
+    "Container Check": "Vanilla_Title",
+    "Skip Full Inventory": true,
+    "Steal Mode": "Shift_Click",
+    "Delay": 50.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Reach": {
+    "enabled": false,
+    "keybind": -1,
+    "Attack Reach": 3.0,
+    "Block Reach": 4.5,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Speed": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Dih": {
+    "enabled": false,
+    "keybind": -1,
+    "Orb Spawn Rate": 1.0,
+    "Self Only": true,
+    "Spawn Orbs": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "ESP": {
+    "enabled": true,
+    "keybind": -1,
+    "Compass Radius": 25.2,
+    "Max Distance": 200.0,
+    "Compass": false,
+    "Compass Mode": "TwoD",
+    "3D Spin Speed": 3.0,
+    "Shiny Arrows": true,
+    "Compass Arrow Color": {
+      "value": -419483086,
+      "falpha": 0.0
+    },
+    "Square Colour": {
+      "value": -1520179,
+      "falpha": 0.0
+    },
+    "Compass Max Arrows": 20,
+    "Outline Size": 1.12,
+    "Outline Width": 3,
+    "Shine Color": {
+      "value": -738197505,
+      "falpha": 0.0
+    },
+    "Tracer Width": 2.94,
+    "Compass Arrow Size": 5.48,
+    "Outline Colour": {
+      "value": -31612,
+      "falpha": 0.0
+    },
+    "3D Arrow Spin": true,
+    "Shine Intensity": 0.44,
+    "Outline": true,
+    "Outline Mode": "Solid",
+    "Square": false,
+    "Chams": true,
+    "Distance Fade": true,
+    "Tracer Lines": false,
+    "Tracer Color": {
+      "value": -922799566,
+      "falpha": 0.0
+    },
+    "Health Bar": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Anti Aim": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "WTap": {
+    "enabled": true,
+    "keybind": -1,
+    "WTap Chance": 100.0,
+    "Mode": "Legit",
+    "Re-Sprint Delay": 1.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Auto Block": {
+    "enabled": true,
+    "keybind": -1,
+    "Block Ratio": 0.5,
+    "Blink Pre": false,
+    "Range": 3.5,
+    "Packet Block": false,
+    "Blink Mode": "Hypixel",
+    "Min Blink Ticks": 3,
+    "Through Walls": true,
+    "Legit Blink": false,
+    "Max Blink Ticks": 3,
+    "Autoblock Mode": "Blink",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "SFX": {
+    "enabled": true,
+    "keybind": -1,
+    "Volume": 80.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Bed ESP": {
+    "enabled": false,
+    "keybind": -1,
+    "Plates": true,
+    "Highlight": true,
+    "Team Colour": true,
+    "Colour": {
+      "value": 848890843,
+      "falpha": 0.0
+    },
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Blink": {
+    "enabled": false,
+    "keybind": 13,
+    "Outgoing": true,
+    "Incoming": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Radio": {
+    "enabled": false,
+    "keybind": -1,
+    "Volume": 50.0,
+    "Channel": "I_Love_Radio",
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Targets": {
+    "enabled": true,
+    "keybind": -1,
+    "Bot Ping": "Hypixel",
+    "Client Teams": true,
+    "Anti Bot": true,
+    "Teams Check": true,
+    "Colour Teams": true,
+    "Hostile Only": false,
+    "Mobs": false,
+    "Show Visuals": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "PlayerHUD": {
+    "enabled": true,
+    "keybind": -1,
+    "Show EXP": true,
+    "Show Armor": true,
+    "Show Hunger": true,
+    "Bar Height": 6.0,
+    "Show Health": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Chat Fixer": {
+    "enabled": false,
+    "keybind": -1,
+    "Chat History Length": 1,
+    "Limited Chat": true,
+    "No Clear": false,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Movement Fix": {
+    "enabled": true,
+    "keybind": -1,
+    "Fix Movement": true,
+    "Move Fix Mode": "Straight",
+    "Fix Rotation": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Velocity": {
+    "enabled": true,
+    "keybind": -1,
+    "Sprint FOV": 180,
+    "Ignore Explosions": true,
+    "Delay Outgoing": false,
+    "Max Delay Ticks": 20,
+    "Jump": "Normal",
+    "Velocity Y": 2.0,
+    "Ignore Teleport": true,
+    "Mode": "Dynamic",
+    "Velocity Z": 2.0,
+    "0 Check": true,
+    "Velocity X": 2.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "KillEffect": {
+    "enabled": true,
+    "keybind": -1,
+    "Accent Colour": true,
+    "Height": 50.0,
+    "Strike": {
+      "open": false
+    },
+    "Thickness": 2.0,
+    "Brightness": 40.0,
+    "Effect": "Strike",
+    "Strike Colour": {
+      "value": -7582209,
+      "falpha": 0.0
+    },
+    "Wander": 0.4,
+    "Duration": 500.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "BackTrack": {
+    "enabled": false,
+    "keybind": -1,
+    "Basics": {
+      "open": false
+    },
+    "Line Width": 2.0,
+    "Release": {
+      "open": false
+    },
+    "On Their Hit": true,
+    "On Our Hit": true,
+    "Fill Opacity": 0.2,
+    "ESP Colour": {
+      "value": -53971,
+      "falpha": 0.0
+    },
+    "Range": 4.0,
+    "Max Delay": 150,
+    "Visuals": {
+      "open": false
+    },
+    "ESP": true,
+    "Only Kill Aura": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Fast Place": {
+    "enabled": false,
+    "keybind": -1,
+    "Blocks Only": true,
+    "Place Delay": 2,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Show Rotations": {
+    "enabled": true,
+    "keybind": -1,
+    "Body Rotation": false,
+    "Head Rotation": true,
+    "Pitch Rotation": true,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Timer": {
+    "enabled": false,
+    "keybind": -1,
+    "Timer Speed": 0.05,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Nick Hider": {
+    "enabled": false,
+    "keybind": -1,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "X-Ray": {
+    "enabled": false,
+    "keybind": 45,
+    "Redstone": false,
+    "X-Ray Vision": false,
+    "Diamond": true,
+    "Distance": 33,
+    "Fill Opacity": 0.1,
+    "Emerald": true,
+    "Fullbright": true,
+    "Outline Width": 2,
+    "Quartz": false,
+    "Iron": false,
+    "Only Exposed": false,
+    "Gold": true,
+    "Outline": true,
+    "Mode": true,
+    "Coal": false,
+    "ESP": true,
+    "Ore": true,
+    "Lapis": false,
+    "Ender Chest": true,
+    "Enabled": true,
+    "Fill": true,
+    "Spawner": true,
+    "Chest": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Auto Clicker": {
+    "enabled": false,
+    "keybind": -1,
+    "Min Delay": 50.0,
+    "Smart": false,
+    "Max Delay": 110.0,
+    "Only On Target": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Freecam": {
+    "enabled": false,
+    "keybind": -1,
+    "Speed": 1.0,
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "Theme": {
+    "enabled": true,
+    "keybind": -1,
+    "Minecraft": {
+      "open": false
+    },
+    "Lowercase": false,
+    "Replace Minecraft Font": true,
+    "Minecraft Font Size": 10,
+    "Client": {
+      "open": false
+    },
+    "General": {
+      "open": false
+    },
+    "Hide": true,
+    "Hold Keybind": false
+  },
+  "No Slow": {
+    "enabled": false,
+    "keybind": -1,
+    "Food": {
+      "open": false
+    },
+    "Sword Motion": 100.0,
+    "Bow": {
+      "open": false
+    },
+    "Sword Mode": "Vanilla",
+    "Bow Sprint": true,
+    "Bow Motion": 100.0,
+    "Food Motion": 100.0,
+    "Sword Sprint": true,
+    "Bow Mode": "None",
+    "Food Mode": "None",
+    "Sword": {
+      "open": false
+    },
+    "Food Sprint": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "Auto Projectiles": {
+    "enabled": false,
+    "keybind": -1,
+    "Predict Movement": true,
+    "Throwing": {
+      "open": false
+    },
+    "Utah Size": 0.8,
+    "Utah Shape": true,
+    "Rotation Speed": 2.0,
+    "Visuals": {
+      "open": false
+    },
+    "Pitch Offset": 0.0,
+    "Burst Min": 3.0,
+    "Targeting": {
+      "open": false
+    },
+    "Use Eggs": true,
+    "Stop When Engaged": true,
+    "Throw Delay": 4.0,
+    "Utah Color": {
+      "value": -11482881,
+      "falpha": 0.0
+    },
+    "Range": {
+      "open": false
+    },
+    "Max Range": 25.0,
+    "Use Aura Range": true,
+    "Client Side": false,
+    "Melee Range": 3.4,
+    "Enable Visuals": true,
+    "Line Thickness": 3.0,
+    "No GUI": true,
+    "Glow Effect": true,
+    "Through Walls": false,
+    "Burst Cooldown": 20.0,
+    "Sorting": "Distance",
+    "Use Snowballs": true,
+    "Burst Max": 4.0,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "More KB": {
+    "enabled": false,
+    "keybind": -1,
+    "Mode": "Legit",
+    "Re-Sprint Delay": 2.0,
+    "Intelligent": false,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  },
+  "AutoSoup": {
+    "enabled": false,
+    "keybind": -1,
+    "Drop Bowl": true,
+    "Auto Close Inventory": true,
+    "Fill Hotbar": true,
+    "Health": 13.0,
+    "Auto Open Inventory": true,
+    "General": {
+      "open": false
+    },
+    "Hide": false,
+    "Hold Keybind": false
+  }
+}
